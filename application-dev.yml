@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: Config-Dev
+profile-name: dev
 eureka:
   client:
     fetch-registry: true
