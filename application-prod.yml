@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: Config-Prod
+profile-name: prod
 eureka:
   client:
     fetch-registry: true
