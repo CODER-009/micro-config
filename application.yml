@@ -1,4 +1,9 @@
 profile-name: default
+
+some:
+  key: "hello world"
+
+
 #eureka:
 #  client:
 #    fetch-registry: true
